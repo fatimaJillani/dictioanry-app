@@ -6,7 +6,13 @@ function App() {
     <div className="App">
       <div className="container">
         <Dictionary defaultKeyword="Hello" />
-        <footer className="text-center">Coded by Fatima Jillani</footer>
+        <footer className="text-center">
+          This website was coded by Fatima Jillani and is{" "}
+          <a href="https://github.com/fatimaJillani/WeatherApp">
+            open-sorced on GitHub
+          </a>{" "}
+          and hosted by Netlify
+        </footer>
       </div>
     </div>
   );
