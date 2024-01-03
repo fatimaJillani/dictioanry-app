@@ -1,3 +1,64 @@
+# React Dictionary App
+
+## Overview
+The React Dictionary App is a web application designed to look up words and explore their meanings, phonetic spellings, and audio pronunciations. It provides a user-friendly interface for discovering and understanding the nuances of language.
+
+## Features Implemented
+1. **Word Lookup:** Search for words to retrieve their meanings.
+2. **Phonetic Spelling:** Access the phonetic representation of each word.
+3. **Audio Pronunciations:** Listen to the correct pronunciation of words.
+
+## Technologies Used
+- React
+- [Merriam-Webster API](https://dictionaryapi.com/) for word data
+
+
+## Setup / Getting Started
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/react-dictionary-app.git
+   ```
+
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd react-dictionary-app
+   ```
+
+3. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Get API Key:**
+   - Obtain an API key from [Merriam-Webster API](https://dictionaryapi.com/register/index) and replace `YOUR_API_KEY` in the code with your actual API key.
+
+5. **Run the Application:**
+   ```bash
+   npm start
+   ```
+
+   This will start the development server, and you can view the app by navigating to [http://localhost:3000](http://localhost:3000) in your web browser.
+
+## Usage
+1. **Search for Words:**
+   - Enter a word in the search bar to retrieve its meaning.
+
+2. **Phonetic Spelling:**
+   - View the phonetic representation of the searched word.
+
+3. **Audio Pronunciations:**
+   - Click the audio icon to listen to the correct pronunciation of the word.
+
+## Contributors
+- [Fatima Jillani](https://github.com/fatimaJillani)
+
+
+## License
+This project is not licensed. Feel free to use, modify, and distribute as per the terms of the license.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
